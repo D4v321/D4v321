@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D4v321
 - 👀 I’m interested in Programming, Gaming, AI and other tech stuff
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Python and anything programming related
 - 📫 How to reach me david_d_tigau@yahoo.com
 
 <!---
